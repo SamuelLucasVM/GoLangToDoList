@@ -1,0 +1,12 @@
+.header {
+    font-family: 'Poppins', sans-serif;
+    color: #ffff;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+    height: 10vh;
+    padding: 5%;
+}
